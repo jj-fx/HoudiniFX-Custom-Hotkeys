@@ -1,6 +1,6 @@
 # Add to selection the closest node (in current context) to the mouse cursor
 #
-# Eg. Shift + S
+# Eg. Shift + S edit
 
 def getContextType():
     pane = kwargs['pane']
