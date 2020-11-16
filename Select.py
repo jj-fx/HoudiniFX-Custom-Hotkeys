@@ -1,4 +1,6 @@
 # Selects the closest node (in current context) to the mouse cursor
+#
+# Eg. S key
 
 def get_current_networ_editor_pane():
     editors = [pane for pane in hou.ui.paneTabs() if isinstance(pane, hou.NetworkEditor) and pane.isCurrentTab()]
