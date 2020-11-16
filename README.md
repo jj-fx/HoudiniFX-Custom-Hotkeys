@@ -1,6 +1,12 @@
 # HoudiniFX-Custom-Hotkeys
 
-## Manual Installation
+#### About
+
+Custom python scripted keys for HoudiniFX:
+1) Select and MultiSelect
+2) Wire Up/Down
+
+#### Manual Installation
 
 ```bash
 1) Create PythonSOP
@@ -11,3 +17,4 @@
 6) Apply and accept both in hotkey editor and tool editor
 7) (Optional) You might have to restart Houdini
 ```
+
