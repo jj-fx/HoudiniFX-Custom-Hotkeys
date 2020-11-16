@@ -6,6 +6,8 @@ Custom python scripted keys for HoudiniFX:
 1) Select and MultiSelect
 2) Wire Up/Down
 
+Feel free to download/clone/fork and use however you want
+
 #### Manual Installation
 
 ```bash
